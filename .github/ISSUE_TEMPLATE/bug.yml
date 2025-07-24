@@ -1,6 +1,6 @@
 name: ⚠️ Bug Report
 description:
-  Report a bug with existing FlutterFire features
+  Report a bug in this project. Please ensure you have searched for existing issues before creating a new one.
 title: "[Bug]: <Short description of the bug>"
 labels: ["help wanted", "bug"]
 body:

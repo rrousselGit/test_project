@@ -1,19 +1,10 @@
-# Pull Request Template
-
-## Description
-Please include a summary of the changes and the related issue. 
-
 ## Related Issue
-Link the issue this pull request addresses. Use the format `Fixes #<issue_number>` or `Closes #<issue_number>`.
+
+Link the issue this pull request addresses. Use the format `fixes #<issue_number>` or `closes #<issue_number>`.
 
 ## Checklist
-- [ ] My code follows the style guidelines of this project
-- [ ] I have performed a self-review of my code
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings
-- [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] New and existing unit tests pass locally with my changes
 
-## Additional Notes
-Add any other context about the pull request here.
+- [ ] I used semantic tags both in my commits and the PR title (For example: `feat(package_name): Added new feature`))
+- [ ] I have added tests that prove my fix is effective or that my feature works
+- [ ] I have made corresponding changes to the documentation
+- [ ] New and existing unit tests pass in the Github CI with my changes
